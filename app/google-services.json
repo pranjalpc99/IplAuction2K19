@@ -1,0 +1,58 @@
+{
+  "project_info": {
+    "project_number": "292091800360",
+    "firebase_url": "https://iplauction2k19.firebaseio.com",
+    "project_id": "iplauction2k19",
+    "storage_bucket": "iplauction2k19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292091800360:android:7dc056d7bffa58a4",
+        "android_client_info": {
+          "package_name": "com.tachyon.techlabs.iplauction2k19"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292091800360-vm9j9baok2vhkb2r4f86aeuk3hi36mji.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tachyon.techlabs.iplauction2k19",
+            "certificate_hash": "dfe51d2b06d6818371f4c51086cb5a505ffd0946"
+          }
+        },
+        {
+          "client_id": "292091800360-tfcf9osgvg5lkmsbs352i5fhjj7ntdgs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwnzH-nMQrA9NsYxSqpzUOnsGqM8py9AI"
+        },
+        {
+          "current_key": "AIzaSyCwnzH-nMQrA9NsYxSqpzUOnsGqM8py9AI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292091800360-tfcf9osgvg5lkmsbs352i5fhjj7ntdgs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
